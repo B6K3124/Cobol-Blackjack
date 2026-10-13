@@ -1,0 +1,9 @@
+__pycache__/
+*.py[cod]
+
+# GnuCOBOL build output and test screenshots
+cobol/build/blackjack
+cobol/build/shots/
+
+# Persisted statistics
+cobol/BLACKJACK.DAT
